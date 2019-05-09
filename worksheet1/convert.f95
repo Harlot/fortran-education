@@ -8,5 +8,5 @@ read *,name
 print *, 'Hi ',name,'! Enter number of pounds and pence'
 read *, pounds, pence
 total =100*pounds+pence
-print *,'the total money in pence is, ',total'
+print *,'the total money in pence is, ',total
 end program convert
