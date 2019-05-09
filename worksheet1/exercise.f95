@@ -3,8 +3,8 @@ implicit none
 ! just a silly stupid program
 integer :: birthyear,age
 real :: number
-char :: g,i,p
-char :: name*20
+character :: g,i,p
+character :: name*20
 print *,"what year were you born"
 read *,birthyear
 age = 2019-birthyear
