@@ -12,6 +12,6 @@ print *,"Spell pig backwards (seperate by comma)"
 read *,g,i,p
 print *, "Type your name"
 read *,name
-print *,"So, your name is ",name,"and you are "age," years old"
+print *,"So, your name is ",name,"and you are ",age," years old"
 print *,"And you pee funny"
 end program exercise
